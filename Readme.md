@@ -1,5 +1,5 @@
 <h1 align="center">Oii, eu sou a Mariana Gonçalves</h1>
-<h3 align="center">Desenvolvedore web frontend</h3>
+<h3 align="center">Desenvolvedora web frontend</h3>
 <br>
 
 <img alt="banner" src="./assets/banner.svg">
