@@ -1,17 +1,15 @@
-<h1 align="center">Hi, I'm Mariana Gonçalves</h1>
-<h3 align="center">Frontend web developer</h3>
+<h1 align="center">Oii, eu sou a Mariana Gonçalves</h1>
+<h3 align="center">Desenvolvedore web frontend</h3>
 <br>
 
 <img alt="banner" src="./assets/banner.svg">
 <br>
 
-- Currently learning **React.js and Git**
-- Look at some of my projects https://mari-goncalves.github.io/Portfolio/
-- Know about my experiences https://www.linkedin.com/in/marianasouzagon%C3%A7alves/
+- Portfólio: https://mari-goncalves.github.io/Portfolio/
+- Minhas experiências: https://www.linkedin.com/in/marianasouzagon%C3%A7alves/
   
 <hr>
 
-<h3 align="left">Building projects with:</h3>
 <p align="left"> 
     <img alt="Html5 icon" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" />
     <img alt="Css3 icon" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" />
@@ -26,7 +24,7 @@
 
 <hr>
 
-<h3 align="left">Social:</h3>
+<h3 align="left">Redes sociais:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/marianasouzagon%C3%A7alves/" target="blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIn Icon" width="40" />
