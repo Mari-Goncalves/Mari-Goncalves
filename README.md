@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mariana Gonçalves</h1>
-<h3 align="left">I'am a frontend web developer student</h3>
+<h1 align="center">Hi, I'm Mariana Gonçalves</h1>
+<h3 align="center">Frontend web developer</h3>
 
+<img width="742" alt="image" src="">
 
-- 🌱 I’m currently learning **JavaScript, React.Js, HTML5 and CSS3**
+- Currently learning **React.js and Git**
 
-- 🤝 My web portfolio [https://mari-goncalves.github.io/Portfolio/](https://mari-goncalves.github.io/Portfolio/)
+- Look at some of my projects [https://mari-goncalves.github.io/Portfolio/](https://mari-goncalves.github.io/Portfolio/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/marianasouzagon%C3%A7alves/](https://www.linkedin.com/in/marianasouzagon%C3%A7alves/)
+- Know about my experiences [https://www.linkedin.com/in/marianasouzagon%C3%A7alves/](https://www.linkedin.com/in/marianasouzagon%C3%A7alves/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marianasouzagon%c3%a7alves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marianasouzagon%c3%a7alves/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/code.coding?igshid=zguzmzm3nwjioq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/code.coding?igshid=zguzmzm3nwjioq==" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mariana gonçalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariana gonçalves" height="30" width="40" /></a>
+<a href="https://instagram.com/@code_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@code_coding" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
