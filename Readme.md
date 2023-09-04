@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedora web frontend</h3>
 <br>
 
-<img alt="banner" src="./assets/banner.png">
+<img alt="banner" src="./assets/banner.jpg">
 <br>
 
 - Portfólio: https://mari-goncalves.github.io/Portfolio/
