@@ -1,19 +1,33 @@
 <h1 align="center">Hi, I'm Mariana Gonçalves</h1>
 <h3 align="center">Frontend web developer</h3>
 
-<img width="742" alt="image" src="">
+<img alt="banner" src="./assets/banner.svg">
 
 - Currently learning **React.js and Git**
 
-- Look at some of my projects [https://mari-goncalves.github.io/Portfolio/](https://mari-goncalves.github.io/Portfolio/)
+- Look at some of my projects https://mari-goncalves.github.io/Portfolio/
 
-- Know about my experiences [https://www.linkedin.com/in/marianasouzagon%C3%A7alves/](https://www.linkedin.com/in/marianasouzagon%C3%A7alves/)
+- Know about my experiences https://www.linkedin.com/in/marianasouzagon%C3%A7alves/
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mariana gonçalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariana gonçalves" height="30" width="40" /></a>
-<a href="https://instagram.com/@code_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@code_coding" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/marianasouzagon%C3%A7alves/" target="blank">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIn Icon" width="40" />
+    </a>
+    <a href="https://instagram.com/code.coding?igshid=ZGUzMzM3NWJiOQ==" target="blank">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram Icon" width="40" />
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="left">Building projects with:</h3>
+<p align="left"> 
+    <img alt="Html5 icon" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" />
+    <img alt="Css3 icon" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" />
+    <img alt="Javascript icon" src="./assets/jsIcon.png" width="40">
+    <img alt="React.js icon" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" />
+    <img alt="Git icon" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+    <img alt="Microsoft azure icon" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
+    <img alt="Github icon" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" />
+    <img alt="Trello icon" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40" /> 
+    <img alt="Figma icon" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+</>
