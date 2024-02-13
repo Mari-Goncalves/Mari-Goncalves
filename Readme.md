@@ -4,11 +4,10 @@
 
 <img alt="banner" src="./assets/banner.jpg">
 <br>
-
-- LinkedIn: https://www.linkedin.com/in/marianasouzagon%C3%A7alves/
   
 <hr>
 
+<h3 align="left">Tecnologias:</h3>
 <p align="left"> 
     <img alt="Html5 icon" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" />
     <img alt="Css3 icon" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" />
