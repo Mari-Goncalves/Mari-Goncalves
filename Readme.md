@@ -5,8 +5,7 @@
 <img alt="banner" src="./assets/banner.jpg">
 <br>
 
-- Portfólio: https://mari-goncalves.github.io/Portfolio/
-- Minhas experiências: https://www.linkedin.com/in/marianasouzagon%C3%A7alves/
+- LinkedIn: https://www.linkedin.com/in/marianasouzagon%C3%A7alves/
   
 <hr>
 
