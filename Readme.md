@@ -27,7 +27,4 @@
     <a href="https://www.linkedin.com/in/marianasouzagon%C3%A7alves/" target="blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIn Icon" width="40" />
     </a>
-    <a href="https://instagram.com/code.coding?igshid=ZGUzMzM3NWJiOQ==" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram Icon" width="40" />
-    </a>
 </p>
