@@ -5,7 +5,7 @@
 <br>
 <br>
 <p align="justify">
-  Estudante do 4º semestre de <b>Análise e Desenvolvimento de Sistemas</b> e encantada pelo universo tecnológico e suas possibilidades.
+  Estudante do último semestre de <b>Análise e Desenvolvimento de Sistemas</b> e encantada pelo universo tecnológico e suas possibilidades.
   
   Minha inspiração está  no poder que o desenvolvimento de um software tem de <b>solucionar dores</b> e contribuir para <b>grandes mudanças<b>.
   
