@@ -1,6 +1,6 @@
 <h1 align="center">Mariana Gonçalves - Desenvolvedora Frontend 💻</h1>
 
-<p align="center">✨ Apaixonada por tecnologia e pronta para contribuir! ✨</p>
+<p align="center">✨  Apaixonada por tecnologia e pronta para contribuir!  ✨</p>
 
 <br>
 <br>
